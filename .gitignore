@@ -1,0 +1,12 @@
+*.o
+*.so
+*.out
+*.dylib
+
+# vim
+*.swp
+
+# OS X finder garbage
+.DS_Store
+
+
